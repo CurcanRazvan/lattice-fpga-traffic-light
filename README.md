@@ -73,7 +73,7 @@ Sistemul controlează atât semaforul pentru mașini, cât și pentru pietoni, c
 
 ---
 
-## 📷 Fotografii (opțional)
+## 📷 Fotografii waveform
 
 ![Screenshot 2025-06-07 114356](https://github.com/user-attachments/assets/7df54524-42e7-427a-84fb-2ab52d7072eb)
 
