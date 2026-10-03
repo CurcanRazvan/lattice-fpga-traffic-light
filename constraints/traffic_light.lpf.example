@@ -1,0 +1,16 @@
+# Exemplu LPF.
+# Completeaza cu pinii reali ai placii Lattice MachXO3LF.
+# Nu sunt introdusi pini inventati.
+
+# LOCATE COMP "clk" SITE "<PIN_CLK>";
+# IOBUF PORT "clk" IO_TYPE=LVCMOS33;
+
+# LOCATE COMP "button" SITE "<PIN_BUTTON>";
+# IOBUF PORT "button" IO_TYPE=LVCMOS33;
+
+# LOCATE COMP "car_red" SITE "<PIN_LED1>";
+# LOCATE COMP "car_yellow" SITE "<PIN_LED2>";
+# LOCATE COMP "car_green" SITE "<PIN_LED3>";
+
+# LOCATE COMP "ped_red" SITE "<PIN_LED4>";
+# LOCATE COMP "ped_green" SITE "<PIN_LED5>";
